@@ -1,1 +1,5 @@
 # iOS-Job-Preparation
+
+![headerImage](https://user-images.githubusercontent.com/4899907/111882700-29fc9c80-89e1-11eb-9981-cb9b04ef9933.png)
+![ix44k24k9ik01](https://user-images.githubusercontent.com/4899907/111882704-2ff27d80-89e1-11eb-9208-01ab7d8d5cd7.png)
+![ESSENTIALROADMAP](https://user-images.githubusercontent.com/4899907/111882705-308b1400-89e1-11eb-9a96-d1f3c27c7dc7.png)
