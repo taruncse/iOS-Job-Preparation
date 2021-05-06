@@ -8,3 +8,8 @@
 * [Design Pattern](https://www.raywenderlich.com/1941302-intermediate-ios-design-patterns)
 * [Test Skill](https://www.hackingwithswift.com/test)
 
+## Remote Job
+* [Crossover](https://www.crossover.com/)
+* [Turing](https://turing.com/)
+* [Toptal](https://www.toptal.com/)
+
